@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Creats a web cach
+create a web cach
 """
 import redis
 import requests
